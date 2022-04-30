@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Tehsil_Sistemi\Tehsil_Sistemi\bin\Debug\netcoreapp3.1\Tehsil_Sistemi.exe
+C:\Users\Admin\source\repos\Tehsil_Sistemi\Tehsil_Sistemi\bin\Debug\netcoreapp3.1\Tehsil_Sistemi.deps.json
+C:\Users\Admin\source\repos\Tehsil_Sistemi\Tehsil_Sistemi\bin\Debug\netcoreapp3.1\Tehsil_Sistemi.runtimeconfig.json
+C:\Users\Admin\source\repos\Tehsil_Sistemi\Tehsil_Sistemi\bin\Debug\netcoreapp3.1\Tehsil_Sistemi.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Tehsil_Sistemi\Tehsil_Sistemi\bin\Debug\netcoreapp3.1\Tehsil_Sistemi.dll
+C:\Users\Admin\source\repos\Tehsil_Sistemi\Tehsil_Sistemi\bin\Debug\netcoreapp3.1\Tehsil_Sistemi.pdb
+C:\Users\Admin\source\repos\Tehsil_Sistemi\Tehsil_Sistemi\obj\Debug\netcoreapp3.1\Tehsil_Sistemi.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Tehsil_Sistemi\Tehsil_Sistemi\obj\Debug\netcoreapp3.1\Tehsil_Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Tehsil_Sistemi\Tehsil_Sistemi\obj\Debug\netcoreapp3.1\Tehsil_Sistemi.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Tehsil_Sistemi\Tehsil_Sistemi\obj\Debug\netcoreapp3.1\Tehsil_Sistemi.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Tehsil_Sistemi\Tehsil_Sistemi\obj\Debug\netcoreapp3.1\Tehsil_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Tehsil_Sistemi\Tehsil_Sistemi\obj\Debug\netcoreapp3.1\Tehsil_Sistemi.dll
+C:\Users\Admin\source\repos\Tehsil_Sistemi\Tehsil_Sistemi\obj\Debug\netcoreapp3.1\Tehsil_Sistemi.pdb
+C:\Users\Admin\source\repos\Tehsil_Sistemi\Tehsil_Sistemi\obj\Debug\netcoreapp3.1\Tehsil_Sistemi.genruntimeconfig.cache
